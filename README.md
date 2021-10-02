@@ -6,7 +6,7 @@
 > I built a "real world" project manager with Next.js hosted at: [tide](https://tide.vercel.app/)
 
 Other things I do are:
-- Mobile  dev with Flutter
+- Mobile  dev: Flutter
 - Flask,Django
-- Javascript(React,Vue,Redux)
+- Javascript( Mostly express ;) )
 - EDA,ML,and Arduino!
