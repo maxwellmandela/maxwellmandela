@@ -1,12 +1,12 @@
 ### Hi there 👋
 #### Max here....
 
-> I'm a self taught Javascript, Python developer from Kenya!
+> A software developer from Kenya!
 
-> I built a "real world" project manager with Next.js hosted at: [tide](https://tide.vercel.app/)
+> I built a "real world" project manager with Next.js, check it out at: [tide](https://tide.vercel.app/)
 
-Other things I do are:
-- Mobile  dev: Flutter
+Some things I like:
+- Mobile  dev: Flutter!
 - Flask,Django
-- Javascript( Mostly express ;) )
-- EDA,ML,and Arduino!
+- JavaScript( nodejs & musings )
+- EDA,ML, Arduino(io-driven weekends :D )
