@@ -3,10 +3,9 @@
 
 > A software developer from Kenya!
 
-> I built a "real world" project manager with Next.js, check it out at: [tide](https://tide.vercel.app/)
+> I'm experimenting with LLMs at [roostar](https://roostarapp.com/)
 
 Some things I like:
 - Mobile  dev: Flutter!
 - Flask,Django
 - JavaScript( nodejs & musings )
-- EDA,ML, Arduino(io-driven weekends :D )
