@@ -1,7 +1,9 @@
 ### Hi there 👋
-#### Max here....
+#### Max here.... 
 
 > A software developer from Kenya!
+
+> [My LinkedIn](https://www.linkedin.com/in/maxwellmandela/)
 
 > Currently at innovexsolutions creating insurtech 
 
