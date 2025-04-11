@@ -7,7 +7,7 @@
 
 > Currently at innovexsolutions creating Insurtech | FLIP and more.
 
-> I'm experimenting with LLMs at [roostar](https://verifiq.co.ke/) and many more (yet to list here)
+> I'm experimenting with LLMs at [roostar](https://habita.co.ke/) and many more (yet to list here)
 
 #### Some things I like:
 - Breaking working applications in my free time to learn the core
