@@ -50,7 +50,6 @@ Core developer on FLIP, a claims, repair, valuation and legal case management pl
 - Led backend architecture, workflow automation and valuation tooling
 - Drove the v1 → v2 platform redesign
 
-**Reference:** Duncan Kariuki — Project Manager · +254 743 422726
 
 ---
 
@@ -67,7 +66,6 @@ A complete asset tracking system managing 10,000+ assets end-to-end: registratio
 - Shipped user-facing dashboards for financial tracking
 - Improved operational transparency across teams
 
-**Reference:** Anthony Atekhera — Director · +254 721 998368
 
 ---
 
@@ -110,8 +108,6 @@ During Little Cab's early launch, built a live operations dashboard streaming re
 **Impact:**
 - Faster issue resolution for support teams
 - Improved operational oversight during rapid nationwide adoption
-
-**Reference:** Erick Karani — Tech Lead, Little Cab · +254 720 117033
 
 ---
 
